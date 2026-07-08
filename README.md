@@ -1,3 +1,3 @@
 # odin-recipes
 
-Simple website containing various recpies for practicing HTML, will probably be revisited with newly acquired CSS knowledge later.
+Simple website for practicing HTML containing various recipes, will probably be revisited later with newly acquired CSS knowledge.
