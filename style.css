@@ -1,0 +1,50 @@
+h1,
+h3,
+p,
+ul,
+ol,
+li,
+img {
+    box-sizing: border-box;
+    margin: 20px;
+}
+
+h1,
+h3,
+.note {
+    text-align: center;
+}
+
+.desc {
+    text-align: left;
+}
+
+img {
+    float: left;
+    border-radius: 10px;
+    width: 400px;
+    height: 400px;
+}
+
+h3 {
+    margin: 30px auto;
+}
+
+p,
+ol,
+ul,
+h3 {
+    font-size: 15pt;
+}
+
+.empty {
+    height: 250px;
+}
+
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+body {
+    background-color: #d1c6aa;
+}
